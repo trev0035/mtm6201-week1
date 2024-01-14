@@ -1,0 +1,31 @@
+/* CSS styles */
+body {
+    font-family:'Times New Roman', Times, serif;
+    background: #e1f4de;
+}
+
+h1 {
+    color: #005e36;
+    text-align: center;
+}
+
+img {
+    display: block;
+    max-width: 30%;
+    margin: 20px auto;
+    border-radius: 50%;
+}
+
+dl {
+    background: #005e36;
+    max-height: 30%;
+    padding: 20px;
+    border-radius: 10px;
+}
+dt {
+    font-weight: bold;
+    color: #e1f4de;
+}
+dd {
+    color: #bccfba;
+}
